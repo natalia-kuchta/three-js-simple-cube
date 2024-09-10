@@ -7,7 +7,7 @@ npx vite
 
 
 
+![Screenshot from 2024-09-10 17-30-44](https://github.com/user-attachments/assets/535d0390-f872-40d9-9d4a-5b5066e826db)
 
-![Screenshot from 2024-09-10 15-03-10](https://github.com/user-attachments/assets/d89e7c2e-45c6-422e-9707-f8ccfeb89ca9)
-![Screenshot from 2024-09-10 15-03-16](https://github.com/user-attachments/assets/ccf2be07-be1a-4c5c-935c-6cf25192631c)
-![Screenshot from 2024-09-10 15-03-21](https://github.com/user-attachments/assets/07580552-d42d-440d-b962-b70e464e299a)
+![Screenshot from 2024-09-10 17-30-50](https://github.com/user-attachments/assets/ca6f6c39-4b02-4586-ac45-404d3998d9d1)
+
